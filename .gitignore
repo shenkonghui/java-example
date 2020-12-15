@@ -3,3 +3,8 @@
 */.settings
 */target
 */.classpath
+spring-boot-demo/mvnw.cmd
+.log
+*/.mvn
+*.log
+spring-boot-demo/mvnw
